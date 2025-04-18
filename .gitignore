@@ -24,3 +24,5 @@ Cargo.lock
 
 # Buck2
 buck-out
+third-party/.cargo
+third-party/vendor
