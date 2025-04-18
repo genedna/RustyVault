@@ -17,8 +17,10 @@ Cargo.lock
 
 
 # Added by cargo
-
 /target
 
 # VIM temp file
 *.swp
+
+# Buck2
+buck-out
